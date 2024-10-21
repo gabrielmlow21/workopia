@@ -1,4 +1,3 @@
-@extends('layout')
-@section('content')
-<h1>Welcome To Worktopia</h1>
-@endsection
+<x-layout>
+    <h1>Welcome To Worktopia</h1>
+</x-layout>
